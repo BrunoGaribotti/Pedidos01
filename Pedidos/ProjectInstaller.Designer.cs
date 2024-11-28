@@ -1,4 +1,4 @@
-﻿namespace SrvBabyFisrt
+﻿namespace Pedidos
 {
     partial class ProjectInstaller
     {

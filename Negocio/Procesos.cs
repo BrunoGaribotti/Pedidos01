@@ -409,7 +409,7 @@ namespace Negocio
         }
 
         /// <summary>
-        /// Carga toda la información de los pedidos de BabyFirst.
+        /// Carga toda la información de los pedidos
         /// </summary>
         /// <param name="lineas"></param>
         /// <returns>Devuelve un array de string con las lineas que van en el archivo.</returns>

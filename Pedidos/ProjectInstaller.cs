@@ -6,7 +6,7 @@ using System.Configuration.Install;
 using System.Linq;
 
 
-namespace SrvBabyFisrt
+namespace Pedidos
 {
     [RunInstaller(true)]
     public partial class ProjectInstaller : Installer

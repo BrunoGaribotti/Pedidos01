@@ -12,8 +12,7 @@ namespace Negocio
     /// </summary>
     class Ftp
     {
-        //(B) dependiendo de si es el server de Grupo360 o BabyFirst
-        private string host = "ftp://www.mundolove.com/";
+        private string host = "ftp://www.########.com/";
         private string user = "###";
         private string pass = "###";
         private FtpWebRequest ftpRequest = null;

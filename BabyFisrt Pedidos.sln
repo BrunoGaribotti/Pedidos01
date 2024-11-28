@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SrvBabyFisrt", "SrvBabyFisrt\SrvBabyFisrt.csproj", "{470CD113-138D-4632-BBB2-5CA9BB858742}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pedidos", "Pedidos\Pedidos.csproj", "{470CD113-138D-4632-BBB2-5CA9BB858742}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{9A131DA9-B40D-4705-80DF-6DB2B8B40262}"
 EndProject

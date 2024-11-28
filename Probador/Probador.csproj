@@ -55,9 +55,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SrvBabyFisrt\SrvBabyFisrt.csproj">
+    <ProjectReference Include="..\Pedidos\Pedidos.csproj">
       <Project>{470CD113-138D-4632-BBB2-5CA9BB858742}</Project>
-      <Name>SrvBabyFisrt</Name>
+      <Name>Pedidos</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

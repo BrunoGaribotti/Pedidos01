@@ -10,10 +10,10 @@ using Negocio;
 using System.Threading;
 using System.IO;
 
-namespace SrvBabyFisrt
+namespace Pedidos
 {
 
-    public partial class SrvBabyFirst : ServiceBase
+    public partial class Pedidos : ServiceBase
     {
         Thread Hilo;
 
@@ -21,7 +21,7 @@ namespace SrvBabyFisrt
 
         int minutos = 2;
 
-        public SrvBabyFirst()
+        public Pedidos()
         {
             InitializeComponent();
         }

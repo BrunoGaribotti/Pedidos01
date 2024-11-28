@@ -6,7 +6,7 @@ using System.Text;
 namespace Negocio
 {
     /// <summary>
-    /// Objeto que contiene los datos del pedido de BabyFirst
+    /// Objeto que contiene los datos del pedido
     /// </summary>
     public class PedidoBf
     {

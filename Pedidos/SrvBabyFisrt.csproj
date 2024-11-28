@@ -8,8 +8,8 @@
     <ProjectGuid>{470CD113-138D-4632-BBB2-5CA9BB858742}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SrvBabyFisrt</RootNamespace>
-    <AssemblyName>SrvBabyFisrt</AssemblyName>
+    <RootNamespace>Pedidos</RootNamespace>
+    <AssemblyName>Pedidos</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <FileUpgradeFlags>

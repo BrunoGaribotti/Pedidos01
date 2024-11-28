@@ -1,6 +1,6 @@
-﻿namespace SrvBabyFisrt
+﻿namespace Pedidos
 {
-    partial class SrvBabyFirst
+    partial class Pedidos
     {
         /// <summary> 
         /// Variable del diseñador requerida.

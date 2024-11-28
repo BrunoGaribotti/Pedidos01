@@ -4,7 +4,7 @@ using System.Linq;
 using System.ServiceProcess;
 using System.Text;
 
-namespace SrvBabyFisrt
+namespace Pedidos
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace SrvBabyFisrt
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[] 
 			{ 
-				new SrvBabyFirst() 
+				new Pedidos() 
 			};
             ServiceBase.Run(ServicesToRun);
         }
